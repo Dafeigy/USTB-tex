@@ -63,8 +63,16 @@
 
   更改`setup/format.tex`中各种定义，可以照着给的例子自行修改。自定义字体需要自行放入`font`文件夹。
   
+* 参考文献修改：
+
+  在`references\reference.bib`中添加Bibtex信息。
+  
+* 图片修改：
+
+  将图片文件放入`figures`文件夹。
+  
 * 复杂表格可使用[Create LaTeX tables online – TablesGenerator.com](https://www.tablesgenerator.com/#)完成。
 
 ## Acknowledgment
 
-出事别找我
+本模板是根据天津大学的本科毕业论文LaTex模板修改而成（虽然我也不明白为啥最后跟我说模板有问题，笑嘻了），该模板系由天津大学2010级管理与经济学部信息管理与信息系统专业硕士生@[张井](mailto:prayever@gmail.com) 和 天津大学2008级精密仪器与光电子工程学院测控技术与仪器专业本科生@[余蓝涛](mailto:lantaoyu1991@gmail.com)提供，并由苯人修改而成。
